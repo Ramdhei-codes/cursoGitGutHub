@@ -11,7 +11,7 @@ body {
 header {
     width: 100%;
     height: 90px;
-    font-size: 0.8em;
+    font-size: 0.7em;
     background-color: darkblue;
     color: #FFF;
     margin: 0;
@@ -20,7 +20,6 @@ header {
 
 .header_title {
     margin: 0;
-
 }
 
 main {
