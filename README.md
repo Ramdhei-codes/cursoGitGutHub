@@ -7,3 +7,4 @@
 * El uso de GitHub (Incluyendo pull requests, ramas, forks, etc.)
 * Incluso estoy viendo cómo usar la sintaxis de MarkDown, no pierdo ni una
 * Gracias a OpiTech por confiar en mí y formarme
+* Saludos a mis compañeros y a mi equipo
